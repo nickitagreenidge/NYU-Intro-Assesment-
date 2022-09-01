@@ -1,18 +1,16 @@
 img {
     height: 300px;
-    width: 300px;
 }
  
 
 /* {add code here to change the color and font family of your name/title */
-    h1 {
-        color :aquamarine(158, 145, 12);
-    }
+h1 {
+    color:orange
+}
 
 /* Bonus: change the color of your list elements */
 li {
     color: orange;
 }
-ol {
-    color: white(158, 145, 12);
-}
+ 
+    
