@@ -1,5 +1,18 @@
-/* add code here to make your image 300px square */
+img {
+    height: 300px;
+    width: 300px;
+}
+ 
 
-/* add code here to change the color and font family of your name/title */
+/* {add code here to change the color and font family of your name/title */
+    h1 {
+        color :aquamarine(158, 145, 12);
+    }
 
 /* Bonus: change the color of your list elements */
+li {
+    color: orange;
+}
+ol {
+    color: white(158, 145, 12);
+}
